@@ -1,0 +1,26 @@
+Instrucciones:
+
+ESC:  Liberar/recuperar el mouse 
+      (si no esta 'libre', no se podra mover el 
+      raton del centro de la ventana).
+
+Teclas de cursor: mover el avatar arriba, abajo, 
+		  izq y derecha, sin cambiar 
+                  la direccion ("strafe").
+
+PageUp/PageDown, 	
+Left click/right click : avanzar/retroceder el avatar (similar al "strafe")
+
+Mouse: Cambiar la direccion de visualizacion ("Pan")
+
+Espacio: Abrir puerta "mas cercana" si esta suficientemente cerca.
+a/z (minuscula): abrir/cerrar persianas.
+g : activar/desactivar modo fantasma.
+
+Atte,
+
+           Luis A. Zarrabeitia,
+           Yusnier Viera,    
+           Tomas O. Junco.
+
+P.S: Obviamente, queremos 5 :) 

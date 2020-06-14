@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E4E76279-53BF-4006-BF51-64E0DE1F32CB}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Casa</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TareaGL</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="Tao.OpenGl">
+      <Name>Tao.OpenGl</Name>
+      <HintPath>Tao.OpenGl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App.ico" />
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Avatar.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Butaca.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Cama.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Camera.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Casa2.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chain.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Clock.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Cojin.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DoorWall.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Estante.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EstanteHorizontal.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GlassWall.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GlassWindow.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GlControl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GlObject.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GlUtils.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InvertedWall.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lamp.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Librero.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LightSource.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MarcadorDeOrigen.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Mesa.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MesetaConFregadero.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Mesita.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MesitaDeNoche.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ObjetoDePrueba.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Plantilla.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Plato.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Point3D.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Puerta.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Refrigerador.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Silla.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SkyBox.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SolidWall.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TranslatedObject.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TV.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Vaso.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Wall.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WallBuilder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WallStrip.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WinApi.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Window.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WindowArray.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WindowedWall.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WodenWindow.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

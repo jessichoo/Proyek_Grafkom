@@ -1,0 +1,46 @@
+D:\Vasily\Cujae\Proyectos ALL\Proyectos Open GL\Casa3.0\obj\Debug\Casa.exe
+D:\Vasily\Cujae\Proyectos ALL\Proyectos Open GL\Casa3.0\obj\Debug\Casa.pdb
+D:\Vasily\Cujae\Proyectos ALL\Proyectos Open GL\Casa3.0\bin\Debug\Casa.exe
+D:\Vasily\Cujae\Proyectos ALL\Proyectos Open GL\Casa3.0\bin\Debug\Casa.pdb
+D:\Vasily\Cujae\Proyectos ALL\Proyectos Open GL\Casa3.0\bin\Debug\Tao.OpenGl.dll
+D:\Vasily\Cujae\Proyectos ALL\Proyectos Open GL\Casa3.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\Proyectos ALL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.exe
+D:\Vasily\Cujae\Proyectos ALL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.pdb
+D:\Vasily\Cujae\Proyectos ALL\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.exe
+D:\Vasily\Cujae\Proyectos ALL\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.pdb
+D:\Vasily\Cujae\Proyectos ALL\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\bin\Debug\Casa.exe
+D:\Vasily\Cujae\Proyectos ALL\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\bin\Debug\Casa.pdb
+D:\Vasily\Cujae\Proyectos ALL\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\bin\Debug\Tao.OpenGl.dll
+D:\Vasily\Cujae\Proyectos ALL\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\cosas\Proyectos ALL\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.exe
+D:\Vasily\Cujae\cosas\Proyectos ALL\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.pdb
+J:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.exe
+J:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.pdb
+J:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\bin\Debug\Casa.exe
+J:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\bin\Debug\Casa.pdb
+J:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\bin\Debug\Tao.OpenGl.dll
+J:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\ResolveAssemblyReference.cache
+H:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.exe
+H:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.pdb
+H:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\bin\Debug\Casa.exe
+H:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\bin\Debug\Casa.pdb
+H:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\bin\Debug\Tao.OpenGl.dll
+H:\vasily\TODO GRAPHIKA\old projects\Proyectos OpenGL\Proyectos Open GL C#\Casa3.0\obj\Debug\Casa.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Casa3.0\Casa3.0\bin\Debug\Casa.exe
+C:\Users\USER\Downloads\Casa3.0\Casa3.0\bin\Debug\Casa.pdb
+C:\Users\USER\Downloads\Casa3.0\Casa3.0\bin\Debug\Tao.OpenGl.dll
+C:\Users\USER\Downloads\Casa3.0\Casa3.0\obj\Debug\Casa.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\Casa3.0\Casa3.0\obj\Debug\Casa.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Casa3.0\Casa3.0\obj\Debug\Casa.csproj.CopyComplete
+C:\Users\USER\Downloads\Casa3.0\Casa3.0\obj\Debug\Casa.exe
+C:\Users\USER\Downloads\Casa3.0\Casa3.0\obj\Debug\Casa.pdb
+C:\Users\USER\Downloads\Proyek Grafkom\Proyek Grafkom\Casa3.0\bin\Debug\Casa.exe
+C:\Users\USER\Downloads\Proyek Grafkom\Proyek Grafkom\Casa3.0\bin\Debug\Casa.pdb
+C:\Users\USER\Downloads\Proyek Grafkom\Proyek Grafkom\Casa3.0\bin\Debug\Tao.OpenGl.dll
+C:\Users\USER\Downloads\Proyek Grafkom\Proyek Grafkom\Casa3.0\obj\Debug\Casa.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\Proyek Grafkom\Proyek Grafkom\Casa3.0\obj\Debug\Casa.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Proyek Grafkom\Proyek Grafkom\Casa3.0\obj\Debug\Casa.csproj.CopyComplete
+C:\Users\USER\Downloads\Proyek Grafkom\Proyek Grafkom\Casa3.0\obj\Debug\Casa.exe
+C:\Users\USER\Downloads\Proyek Grafkom\Proyek Grafkom\Casa3.0\obj\Debug\Casa.pdb
